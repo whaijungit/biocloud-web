@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name_en": "heatmap",
+        "name_zh": "IBS遗传距离",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ad iste reiciendis. Molestias vero commodi dolorum accusantium, dolor ab. Ad!",
+        "type": "tools",
+        "developmnent": "bio",
+        "result_show": "drawer"
+    }
+]

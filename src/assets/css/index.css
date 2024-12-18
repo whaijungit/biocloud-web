@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary: #006dff;
+    --txt-color: #1F2533;
+}
+
+html {
+    font-size: 14px;
+    font-weight: 400;
+    color: #1F2533;
+}
