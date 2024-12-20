@@ -3,16 +3,13 @@
         <nav class="navbar h-full justify-between flex text-md">
             <div class="nav-item flex gap-10 pl-10 items-center h-full">
                 <RouterLink to="/">
-                    <h1 style="display: none;">华智生信云平台</h1>
                     <LogoSvg />
                 </RouterLink>
                 <RouterLink
                     to="/tools"
                     active-class="active"
                     class="nav-link-item cursor-pointer h-full pt-5"
-                >
-                    云工具
-                    </RouterLink
+                    >云工具</RouterLink
                 >
                 <RouterLink
                     to="/pipelines"
